@@ -2,8 +2,7 @@
 az login
 
 # Get subscription ID
-az account show --query id --output tsv
-az account set -s "b6ed6993-9aab-44cc-a64f-8344a0e5e5b7"
+az account list -0 table
 
 # Create Azure Resource Group
 az group create --name aks-demo --location southeastasia
