@@ -4,7 +4,7 @@ This repository contains a simple node js application that returns portfolio htm
 
 #### Steps to get the project and run :desktop_computer:
 
-1. :heavy_check_mark: Clone or fork the application. `git clone https://github.com/rusiruavb/aks-demo.git`
+1. :heavy_check_mark: Clone or fork the application. `https://github.com/Chabbax/Docker-Kubernetes-Demo.git`
 2. :heavy_check_mark: Open the application in VS Code or any other code editor `code .`
 3. :heavy_check_mark: Run `npm install` to install necessary dependencies.
 4. :heavy_check_mark: Run `npm run start` to run the application. The application will run on `http://localhost:8045` port.
