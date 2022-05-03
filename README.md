@@ -11,8 +11,8 @@ This repository contains a simple node js application that returns portfolio htm
 
 #### Steps to create Docker image and run :whale:
 
-:heavy_check_mark: Run `docker image build -t portfolio-app:v1`. (This will create Docker image. :package:)
-:heavy_check_mark: Run `docker run -d -p 3000:8045 portfolio-app:v1` :rocket:
-:heavy_check_mark: Open your browser and type `http://localhost:3000` and enter.
+- Run `docker image build -t portfolio-app:v1`. (This will create Docker image. :package:)
+- Run `docker run -d -p 3000:8045 portfolio-app:v1` :rocket:
+- Open your browser and type `http://localhost:3000` and enter.
 
 **All other commands to create Azure Container Registry(ACR) and Azure Kubernetes Service(AKS) are in the** `commands.sh` **file.**
