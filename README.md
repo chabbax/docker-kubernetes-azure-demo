@@ -1,5 +1,7 @@
 ## Deploy Simple Node JS application into Azure Kubernetes Service
 
+![technologies](image.png)
+
 This repository contains a simple node js application that returns portfolio html page after application started.
 
 #### Steps to get the project and run :desktop_computer:
