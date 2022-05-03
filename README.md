@@ -2,7 +2,7 @@
 
 ![technologies](image.png)
 
-This repository contains a simple node js application that returns portfolio html page after application started.
+This repository contains a simple node js application that returns a sample portfolio html page after application started. This demo is simply to show how we can incoperate Azure Kubernetes service with docker and a NodeJS application.
 
 #### Steps to get the project and run :desktop_computer:
 
